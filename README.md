@@ -1,2 +1,2 @@
 # datapoint-internship
-# datapoint-internship
+"As a dedicated intern at Datapoint, I had the opportunity to contribute significantly to our team by developing a dynamic website using Python and Django framework. I successfully implemented CRUD (Create, Read, Update, Delete) operations, enhancing the website's functionality and user experience. This experience honed my skills in web development, problem-solving, and teamwork. Eager to leverage my expertise and continue exploring innovative solutions in the tech world. Open to exciting opportunities and collaborations! #Python #Django
